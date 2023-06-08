@@ -28,9 +28,9 @@ Google Photos is peerless.  I can browse my entire photo library on a phone I've
 
 In the secondary tier are GMail, Google Contacts, Google Calendar, Google Drive, YouTube, and Translate.
 
-I've been on a quest now for 7 years to rid myself of this dependency.
+I was never really into the socail aspects of the platform; I just appreciated the easy, frictionless backup and sync.
 
-Here is my story:
+I've been on a quest now for 7 years to rid myself of this dependency. This is my story:
 
 # Get a cell phone that has official support from LineageOS
 
