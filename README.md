@@ -44,6 +44,8 @@ If you're coming from a device that you're currently daily driving, here are som
 
 Before you backup, disable Wifi and remove the simcard to avoid overlapping sync issues!
 
+#Backup
+
 **remove sim!**
 
 Backup sms, mms, call log, 2FA, OPML, and NewPipe.
@@ -53,15 +55,17 @@ Refresh login to nextcloud and bitwarden on separate machine for backup purposes
 Test lineage
 sms, wifi, phone calls, coverage, sdcard, crashes
 
-if a working one is found
+**This is nearly impossible to do without fucking up the backups you just made.  It at all posible, use a differnt sim.**
 
-Get the MicroG for LineageOS latest build of the one that worked
+If a working build is found (There is no "Else" here, if there's no build, you fucked up the step where you acquire a compatible device):
 
-Use payload-dumper-go to extract neccesary flash components
+Get the [MicroG for LineageOS](https://lineage.microg.org/) latest build of the one that worked
 
-Follow Lineage install instructions
+Use [payload-dumper-go](https://github.com/ssut/payload-dumper-go) to extract neccesary flash components
 
-minimal setup
+Follow [Lineage install instructions](https://wiki.lineageos.org/devices/dre/install) (**FOR Unlocked OnePlus Nord N200 ONLY!!  FOLLOW THE INSTRUCTIONS FOR YOUR DEVICE!!** )
+
+#Minimal Setup
 
 enable ADB
 
