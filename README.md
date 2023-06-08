@@ -32,7 +32,7 @@ Here is my story:
 
 Get a cell phone that has official support from LineageOS
 
-Devices from Google (ironically), Sony, Samsung, Oneplus, and Motorola are decent bets but check https://wiki.lineageos.org/devices/#sony first.
+Devices from Google (ironically), Sony, Samsung, Oneplus, and Motorola are decent bets but check https://wiki.lineageos.org/devices/ first.
 
 Ideally, try the oldest initial version first, since it is usually the most stable.
 
