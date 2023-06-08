@@ -37,7 +37,7 @@ This is not as easy as it looks.  You need a Carrier Unlocked device. There are 
 
 Devices from (ironically) Google, Sony, Samsung, Oneplus, and Motorola are decent bets but always check https://wiki.lineageos.org/devices/ first. LineageOS won't sort by "Last Added" which is very annoying.
 
-Ideally, try the oldest initial version first, since it is usually the most stable.
+Ideally, try the oldest supported version first, since it is usually the most stable. You might need to 'downgrade' your device if it has the 'wrong' updates that are incompatible with LineageOS.
 
 I chose an unlocked OnePlus Nord N200.  I'm currently a version behind (19.1), since, although considered "stable", the current build (20.0) has problems with BlueTooth, phone calls, and reading from the sd card. It's a good idea to wait for that ".1" if you care about actually being able to use your phone vs. just-testing-things-out.
 
