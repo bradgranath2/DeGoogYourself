@@ -32,9 +32,11 @@ I've been on a quest now for 7 years to rid myself of this dependency.
 
 Here is my story:
 
-Get a cell phone that has official support from LineageOS
+# Get a cell phone that has official support from LineageOS
 
-Devices from Google (ironically), Sony, Samsung, Oneplus, and Motorola are decent bets but check https://wiki.lineageos.org/devices/ first.
+This is not as easy as it looks.  You need a Carrier Unlocked device. There are hacks to unlock locked devices, and they are cheaper, but it always complicates things.  In the interest of readability and brevity I buy unlocked now.
+
+Devices from Google (ironically), Sony, Samsung, Oneplus, and Motorola are decent bets but always check https://wiki.lineageos.org/devices/ first.
 
 Ideally, try the oldest initial version first, since it is usually the most stable.
 
