@@ -95,6 +95,8 @@ Give Mozilla location provider Special permissions
 
 install Universal Safety net fix magisk mod
 
+## Base System is Installed and will not be erased or reset again!!
+
 install aurora services mod
 
 install sms restore
