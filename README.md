@@ -117,6 +117,8 @@ install fennec b4 Dav client and set as default!
 
 Sync contacts and calender
 
+## Personal Apps
+
 install and setup protonmail
 
 Install and setup K9
