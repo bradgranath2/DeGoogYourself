@@ -34,7 +34,7 @@ Here is my story:
 
 # Get a cell phone that has official support from LineageOS
 
-This is not as easy as it looks.  You need a Carrier Unlocked device. There are hacks to unlock locked devices, and they are cheaper, but it always complicates things.  In the interest of readability and brevity I'm writing about unlocked devices.
+This is not as easy as it looks.  You need a Carrier Unlocked device. There are hacks to unlock locked devices - and they are cheaper - but it always complicates things.  In the interest of readability and brevity I'm writing about unlocked devices.
 
 Devices from (ironically) Google, Sony, Samsung, Oneplus, and Motorola are decent bets but always check https://wiki.lineageos.org/devices/ first. They won't sort by "Last Added" which is very annoying.
 
