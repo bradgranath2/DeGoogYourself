@@ -39,7 +39,7 @@ Devices from (ironically) Google, Sony, Samsung, Oneplus, and Motorola are decen
 
 Ideally, try the oldest supported version first, since it is usually the most stable. You might need to 'downgrade' your device if it has the 'wrong' updates that are incompatible with LineageOS.
 
-I chose an unlocked OnePlus Nord N200.  I'm currently a version behind (19.1), since, although considered "stable", the current build (20.0) has problems with BlueTooth, phone calls, and reading from the sd card. It's a good idea to wait for that ".1" if you care about actually being able to use your phone vs. just-testing-things-out.
+I chose an unlocked OnePlus Nord N200.  I'm currently a version behind (19.1), since, although considered "stable", the current build (20.0) has problems with BlueTooth, phone calls, and reading from the sd card. It's a good idea to wait for that ".1" if you care about actually being able to use your phone vs. just-testing-things-out.  Note: Haha, nevermind Lineage just [deprecated](https://lineageos.org/Changelog-27/) the subversion numbers and we should probably go by the build date instead?
 
 # Backup
 If you're coming from a device that you're currently daily driving, here are some good things to backup.
