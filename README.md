@@ -38,11 +38,13 @@ Ideally, try the oldest initial version first, since it is usually the most stab
 
 I chose a OnePlus Nord N200.  I'm currently a version behind (19.1), since, although considered "stable", the current build (20.0) has problems with BlueTooth, phone calls, and reading from the sd card. It's a good idea to wait for that ".1" if you care about actually being able to use your phone vs. just-testing-things-out.
 
-If you're coming from a device that you're currently deaily driving, here are some good things to backup before you backup, disable Wifi and remove the simcard to avoid overlapping sync issues.
+If you're coming from a device that you're currently daily driving, here are some good things to backup.
 
-remove sim!
+Before you backup, disable Wifi and remove the simcard to avoid overlapping sync issues!
 
-backup sms, mms, calls, 2FA, OPML, and NewPipe
+**remove sim!**
+
+Backup sms, mms, call log, 2FA, OPML, and NewPipe.
 
 Refresh login to nextcloud and bitwarden on separate machine for backup purposes
 
