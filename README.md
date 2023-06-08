@@ -46,7 +46,8 @@ I chose a OnePlus Nord N200.  I'm currently a version behind (19.1), since, alth
 If you're coming from a device that you're currently daily driving, here are some good things to backup.
 
 Before you backup, disable Wifi and remove the simcard to avoid overlapping sync issues!
-**remove sim!**
+
+**remove the sim card!!**
 
 Backup sms, mms, call log, 2FA, OPML, and NewPipe.
 
