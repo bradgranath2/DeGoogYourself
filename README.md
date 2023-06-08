@@ -1,9 +1,4 @@
 # DeGoogYourself
-Delete Google from your life
-
-
-how to degoog your life as much as possible
-
 How did *you* end up here?
 
 I came here in the aftermath of the 2016 US Presidential election, when I deleted my social media accounts.  All but one proved fairly simple.
