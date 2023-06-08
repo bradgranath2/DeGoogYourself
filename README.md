@@ -128,7 +128,11 @@ Install and setup Nextcloud notes
 Install and setup Discord
 
 Feedly
+
 Antennapod
+
 AdAway
+
 NewPipe
+
 OSM And+
