@@ -22,6 +22,8 @@ Google Play services is built into Android in a way that makes it *very* difficu
 
 Google Maps is so reliable, in such a profound way, it has put its competitors out of business one by one.  The fact that it is still free for the most part is mind-boggling.  *StreetView*. There is Apple maps, if you care for that flavor, but offline, in-dash navigation from the likes of TomTom and Garmin are completely gone.  This cannot be blamed on COVID; the most recent head unit with an offline navigation function was a 2014 Sony SKU.
 
+(Yes there are little screens you can suction cup to your dash, but built in stuff has totally disappeared and been replaced with Android Auto and Apple CarPlay.
+
 Google Photos is peerless.  I can browse my entire photo library on a phone I've just logged into without having to cache the entire library first.  I dunno how they do it.  Unbelievably local CDN's I imagine.  No other solution I've tried has come close to Google Photo's ability to offer frictionless backup, and seamless galleries. Ditching this app has put, not a dent, but a near stop on my pocketcam photo output.  I don't take pictures any more in the same way, because I know it will be difficult to back them up, browse them, and share them.
 
 In the secondary tier are GMail, Google Contacts, Google Calendar, Google Drive, YouTube, and Translate.
