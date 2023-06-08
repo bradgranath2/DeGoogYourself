@@ -49,7 +49,7 @@ Before you backup, disable Wifi and remove the simcard to avoid overlapping sync
 
 **remove the sim card!!**
 
-Backup sms, mms, call log, 2FA, OPML, and NewPipe.
+Backup sms, mms, call log, 2FA, OPML, and NewPipe, along with anything else you keep locally on the device, like photos or downloads
 
 Refresh login to nextcloud and bitwarden on separate machine for backup purposes
 
