@@ -20,7 +20,7 @@ By far the most difficult services (for me) to ditch have been Google Play Servi
 
 Google Play services is built into Android in a way that makes it *very* difficult to do without, despite not being part of the core OS.
 
-Google Maps is so reliable, in such a profound way, it has put its competitors out of business one by one.  The fact that it is still free for the most part is mind-boggling.  *StreetView*. There is Apple maps, if you care for that flavor, but offline, in-dash navigation from the likes of TomTom and Garmin are completely gone.  This cannot be blamed on COVID; the most recent head unit with an offline navigation function was a 2014 Sony SKU.
+Google Maps is *so* reliable, in such a profound way, it has put its competitors out of business one by one.  The fact that it is still free for the most part is mind-boggling.  *StreetView*. There is Apple maps, if you care for that flavor, but offline, in-dash navigation from the likes of TomTom and Garmin are completely gone.  This cannot be blamed on COVID; the most recent head unit with an offline navigation function was a 2014 Sony SKU.
 
 (Yes there are little screens you can suction cup to your dash, but built in stuff has totally disappeared and been replaced with Android Auto and Apple CarPlay.
 
