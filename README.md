@@ -11,7 +11,7 @@ Not through any dark patterns or for lack of customer service, rather, Google is
 
 However, I've mostly migrated away.
 
-I understand that I don't control the radio/modem in my device, and so, obviously, NSA has already pwned me.  Yeah. I know.  I'd just rather keep it to them.
+I understand that I don't control the radio/modem in my device, and so, obviously, [NSA](https://github.com/nationalsecurityagency) has already pwned me.  Yeah. I know.  I'd just rather keep it to them.
 
 By far the most difficult services (for me) to ditch have been Google Play Services, Google Maps, and Google Photos.
 
