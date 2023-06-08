@@ -54,7 +54,7 @@ Refresh login to nextcloud and bitwarden on separate machine for backup purposes
 
 # Test
 
-**This is nearly impossible to do without fucking up the backups you just made.  It at all posible, use a differnt sim.**
+**This is nearly impossible to do without fucking up the backups you just made.  If at all posible, use a differnt sim.**
 
 If a working build is found (There is no "Else" here, if there's no build, you fucked up the step where you acquire a compatible device):
 
