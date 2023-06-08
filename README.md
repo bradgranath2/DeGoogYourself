@@ -1,7 +1,7 @@
 # DeGoogYourself
 How did *you* end up here?
 
-Not, [Here](github.com), but rather to the conclusion that you were *too* dependendent on Google.
+Not, [Here](github.com), but rather, to the conclusion that you were *too* dependendent on Google.
 
 I came here in the aftermath of the 2016 US Presidential election, when I deleted my social media accounts.  All but one proved fairly simple.
 
