@@ -17,9 +17,7 @@ By far the most difficult services (for me) to ditch have been Google Play Servi
 
 Google Play services is built into Android in a way that makes it *very* difficult to do without, despite not being part of the core OS.
 
-Google Maps Navigation is *so* reliable, in such a profound way.  The fact that it is still free for the most part is mind-boggling.  There is Apple maps, if you care for that flavor, as well as appifyed versions of TomTom and Garmin.  Some carmakers build Garmin units into the dash but the most recent aftermarket head unit with an offline navigation function was a 2014 Sony SKU that is discontinued.
-
-(Yes there are little screens you can suction cup to your dash, but built in stuff has totally disappeared and been replaced with Android Auto and Apple CarPlay.)
+Google Maps Navigation is *so* reliable, in such a profound way.  The fact that it is still free speaks to just how much Google values the information that it collects.  There is Apple maps, if you care for that flavor, as well as appifyed versions of TomTom and Garmin.  Some carmakers build Garmin units into the dash but the most recent aftermarket head unit with an offline navigation function was a 2014 Sony SKU that is discontinued.
 
 Google Photos is peerless.  I can browse my entire photo library on a phone I've just logged into without having to cache the entire library first.  I dunno how they do it.  Unbelievably local CDN's I imagine.  No other solution I've tried has come close to Google Photo's ability to offer frictionless backup, and seamless galleries. Ditching this app has put, not a *dent*, but a near ***total stop*** on my pocketcam photo output.  I don't take pictures any more in the same way, because I know it will be difficult to back them up, browse them, and share them.  I miss this on a visceral level.  On a ski traverse through France and Switzerland I took hours of video and something like 2500 pictures on an Android smartphone, and Google Photos just churned right through all of it, no questions asked, no matter what network I was connected to in whatever country, I had the full album at my figertips to share with anyone with an email address nearly the moment we stepped out of our skis and got off the trail.  I haven't been able to do anything even close to that since.
 
@@ -33,7 +31,7 @@ I've been on a quest now for 7 years to rid myself of this dependency. This is m
 
 # Get a cell phone that has official support from LineageOS
 
-This is not as easy as it looks.  You need a Carrier Unlocked device. There are hacks to unlock locked devices - and they are cheaper - but it always complicates things.  In the interest of readability and brevity I'm writing about unlocked devices.
+This is not as easy as it looks.  You need a Carrier Unlocked device with a unlockable bootloader. There are hacks to unlock locked devices - and they are cheaper - but it always complicates things.  In the interest of readability and brevity I'm writing about unlocked devices.
 
 Devices from (ironically) Google, Sony, Samsung, Oneplus, and Motorola are decent bets but always check https://wiki.lineageos.org/devices/ first. LineageOS won't sort by "Last Added" which is very annoying.
 
